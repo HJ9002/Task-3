@@ -1,4 +1,4 @@
-# Books REST API
+# Task 3
 
 A small Node.js and Express API for creating, listing, replacing, and deleting books. Books are stored in memory, so the list resets whenever the server restarts.
 
